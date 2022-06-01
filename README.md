@@ -10,4 +10,4 @@ I'm **11** and is in primary 6
 View my discord profile [here](https://discord.com/channels/@me/979739093858672661).  
 My YT channel : None Yet
 ## My projects
-Making……
+The newest project --> [Emoji Clicker v1.1](https://github.com/Likachu-HK/emoji-clicker.git)
